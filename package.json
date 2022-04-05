@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "cssnano": "^4.1.11",
+    "parcel-bundler": "^1.12.3"
   },
   "dependencies": {
     "abab": "^2.0.5",
@@ -121,7 +122,6 @@
     "css-tree": "^1.0.0-alpha.37",
     "css-what": "^3.4.2",
     "cssesc": "^3.0.0",
-    "cssnano": "^4.1.11",
     "cssnano-preset-default": "^4.0.8",
     "cssnano-util-get-arguments": "^4.0.0",
     "cssnano-util-get-match": "^4.0.0",
@@ -545,5 +545,13 @@
     "xmlchars": "^2.2.0",
     "xtend": "^4.0.2"
   },
-  "description": ""
+  "description": "��#\u0000 \u0000a\u0000m\u0000b\u0000c\u0000a\u0000r\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000a\u0000m\u0000b\u0000c\u0000a\u0000r\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000a\u0000m\u0000b\u0000\r\u0000 \u0000",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambcart/ambcart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ambcart/ambcart/issues"
+  },
+  "homepage": "https://github.com/ambcart/ambcart#readme"
 }
